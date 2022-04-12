@@ -27,7 +27,6 @@
 
 
 <h2> Overview </h2>
-<hr>
 <div id="fetch">
     
 <h3>Section 1: Fetch the News Articles</h3>    
@@ -39,7 +38,7 @@ Ploting the Bitcoin and Ethereum Headlines Sentiment Chart:
 <section align="center">    
     <img src="Images/btc_headlines_sentiment_chart.png"/>
     <img src="Images/eth_headlines_sentiment_chart.png"/>
-    <img src="Images/btc_describe.png"/>
+    <img src="Images/btc_describe.PNG"/>
 </section>    
     <div align="right">(<a href="#top">↥ back to top</a>)</div>
 </div><br>
@@ -61,9 +60,9 @@ Ploting the Bitcoin and Ethereum Headlines Sentiment Chart:
 <h3>Section 3: Named Entity Recognition (NER)</h3>
     <p> building a NER model for both Bitcoin and Ethereum, then visualizing the tags using SpaCy.</p>  
  <section align="center">    
-        <img src="Images/btc_NER.png"/>
+        <img src="Images/btc_NER.PNG"/>
         <br><br>
-        <img src="Images/eth_NER.png"/>        
+        <img src="Images/eth_NER.PNG"/>        
     </section>       
 <div align="right">(<a href="#top">↥ back to top</a>)</div>  
 </div><br>
